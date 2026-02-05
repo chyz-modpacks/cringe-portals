@@ -54,11 +54,6 @@ hash = "9dc337ffb127f1b1f24c57f8c3fc739e21b2139050d41baf55357fad8b42c83b"
 metafile = true
 
 [[files]]
-file = "mods/gateway-gun.pw.toml"
-hash = "531020cf4e3f54df8e2069cfdc306f2f3085f54ef46d206b3dc6a9f5004587c4"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
 metafile = true
@@ -85,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d81f9744646c2c0b7527d81fd766854c62707835e3576bcb745b610230457871"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
 metafile = true
 
 [[files]]
