@@ -1,0 +1,35 @@
+#!/bin/bash
+
+PAGES_URL="https://chyz-modpacks.github.io/cringe-portals/index.toml"
+CHECK_INTERVAL=10
+
+echo "Refreshing packwiz..."
+packwiz refresh
+
+if [ -z "$(git status --porcelain)" ]; then
+    echo "No Changes found. Exiting..."
+    exit 0
+fi
+
+git add .
+# git add --renormalize .
+
+echo "Changes found. Committing..."
+git commit -m "updoot"
+git push
+echo "Changes Pushed. Awaiting Deployment..."
+
+LOCAL_HASH=$(sha256sum index.toml | awk '{print $1}')
+
+while true; do
+    REMOTE_CONTENT=$(curl -s -L "$PAGES_URL")
+    REMOTE_HASH=$(echo "$REMOTE_CONTENT" | sha256sum | awk '{print $1}')
+
+    if [ "$LOCAL_HASH" == "$REMOTE_HASH" ]; then
+        echo -e "\nPack update is live.\a"
+        break
+    fi
+
+    echo -n "."
+    sleep $CHECK_INTERVAL
+done

@@ -1,0 +1,13 @@
+name = "Gravity Changer (qouteall fork)"
+filename = "gravity-changer-1.3.0+mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bqOyYdKi/versions/4WLvZoDm/gravity-changer-1.3.0%2Bmc1.20.4.jar"
+hash-format = "sha512"
+hash = "7d7e85b5e731744928042be4110ef46f8cee4b90c231a0599475a0941aee2b5a7ec2b7dca0cef37fd049fc157c4153fb0fe5dbb0d415899f04f9371ff03ead34"
+
+[update]
+[update.modrinth]
+mod-id = "bqOyYdKi"
+version = "4WLvZoDm"

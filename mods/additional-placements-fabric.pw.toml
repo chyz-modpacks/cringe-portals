@@ -1,0 +1,13 @@
+name = "Additional Placements Fabric"
+filename = "[1.20.4-Fabric] Additional Placements-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jyJzs6EK/versions/NcmbWe8i/%5B1.20.4-Fabric%5D%20Additional%20Placements-2.3.1.jar"
+hash-format = "sha512"
+hash = "2ec4b2e898c7e81cdec472f2a0a99dc3df142dcc530c4cccbb352b9284513cee20384fb39dd9525161fef9cf0a9eb414751f3a357e6ba061972d235fcd3638c4"
+
+[update]
+[update.modrinth]
+mod-id = "jyJzs6EK"
+version = "NcmbWe8i"

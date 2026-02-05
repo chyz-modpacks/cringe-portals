@@ -1,0 +1,140 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/additional-placements-fabric.pw.toml"
+hash = "f91467703d4b5f18a31dbc5c03b1a73a44521b61de6d8a0772d30b989f5bcc0c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "b98eb37aef91f0e3e488cddd3b0156f8a4006b4d0131ecece85f632facbdc18e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
+metafile = true
+
+[[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "0e335932a555bc6cfa77854f76e833125097698ebf8ebdb3625be8ddaca2f8c7"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "dded3880e723049a3d26ce915edf37ea1a86b4e45fc8fa47a9ec96b85596f36e"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "b0a96ca2358570d64d7e0f8d6c65ca140034aee3f5296beffc5001fa52308631"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
+metafile = true
+
+[[files]]
+file = "mods/fdmc-0.2.4mc1.20.4.jar.disabled"
+hash = "66cd008810d248910d7c9d7da0f48faafbaba9f88bbfac6b5cb040c03c116927"
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "3536324851331d802192df60473aa6818c3f5a332dd58b579a3da5813ff43430"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "9dc337ffb127f1b1f24c57f8c3fc739e21b2139050d41baf55357fad8b42c83b"
+metafile = true
+
+[[files]]
+file = "mods/gateway-gun.pw.toml"
+hash = "531020cf4e3f54df8e2069cfdc306f2f3085f54ef46d206b3dc6a9f5004587c4"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
+metafile = true
+
+[[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "5f8ebc1a54f64a6e88ab944f962b6838e7e1a1d9f77ed27851def53077a7bb2b"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "b5e8b41a632a7a383d5dd0a0141c0a4579f73f4a787ec63a5f9cf719f39537cd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
+metafile = true
+
+[[files]]
+file = "mods/miniscaled.pw.toml"
+hash = "c6630ff951c43aaf03dfd592f524f8fae409058a7111eaccbb150927945f9ba8"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+metafile = true
+
+[[files]]
+file = "mods/ok-boomer.pw.toml"
+hash = "4bb4cc0536883fa919fc0b73cc8c233cd250f2b02d58091db44a0ab96c08211b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "499255558fba5abfa0760fe875fd624d5543cf7b8915651ea7f389fa5897b1ad"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "872c2a2b3803fbe9c414cf06616362e14d728ea35d0955c76c4e549df978a4ad"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "1ee2fbdd79b37133dbd6c0f0dcf285e5d7c4a4d6720b4f1ac001144f74da3023"
+metafile = true
+
+[[files]]
+file = "mods/seamless.pw.toml"
+hash = "da97bbfeded4bafab4fe7917796370f6fe2e5d69bc93f861bd7e52206bd92e3c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+metafile = true
+
+[[files]]
+file = "mods/wearthat.pw.toml"
+hash = "57af14d4b92dc7db3065a0c4f292d48cc6b6e57ae2816675c4e82475b6af8388"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
+metafile = true

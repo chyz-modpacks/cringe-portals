@@ -1,0 +1,13 @@
+name = "Gateway Gun"
+filename = "gatewaygun-1.1.0-mc1.20.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/auOEAeoy/versions/L7BAQu7g/gatewaygun-1.1.0-mc1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "119bb35d6a2ea71b9f293f63493eb0a7627a67063230ebb53373a1bd9d6407b202d0c94c71ba66df4cd93c0422fa100329ae6ff75d628e55192a6df4cb49e0fd"
+
+[update]
+[update.modrinth]
+mod-id = "auOEAeoy"
+version = "L7BAQu7g"

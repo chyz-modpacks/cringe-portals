@@ -1,0 +1,13 @@
+name = "Cringe Portals"
+author = "chyzman"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5f882516c9062260ab5ca566b024e11007449fae19af86d903578744ae7dc2b7"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.4"
