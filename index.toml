@@ -15,11 +15,6 @@ hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "b98eb37aef91f0e3e488cddd3b0156f8a4006b4d0131ecece85f632facbdc18e"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
 metafile = true
@@ -90,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+hash = "d81f9744646c2c0b7527d81fd766854c62707835e3576bcb745b610230457871"
 metafile = true
 
 [[files]]
