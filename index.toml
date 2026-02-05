@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/figura.json"
+hash = "386eab135c7c62bcefe7da4f7c9f9df4d97b36ee405b7ab87f71787d2e0bb398"
+
+[[files]]
 file = "mods/additional-placements-fabric.pw.toml"
 hash = "f91467703d4b5f18a31dbc5c03b1a73a44521b61de6d8a0772d30b989f5bcc0c"
 metafile = true
@@ -100,6 +104,11 @@ hash = "499255558fba5abfa0760fe875fd624d5543cf7b8915651ea7f389fa5897b1ad"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "dce2382208b555aa2952c15ada3ba49203c1e420319fa1c678ac8a5f6d35fff6"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
@@ -107,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
-metafile = true
-
-[[files]]
-file = "mods/portal-gun.pw.toml"
-hash = "872c2a2b3803fbe9c414cf06616362e14d728ea35d0955c76c4e549df978a4ad"
 metafile = true
 
 [[files]]

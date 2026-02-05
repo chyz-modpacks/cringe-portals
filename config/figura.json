@@ -1,0 +1,7 @@
+{
+  "CONFIG_VERSION": 1,
+  "action_wheel_button": "key.keyboard.unknown",
+  "popup_button": "key.keyboard.unknown",
+  "panic_button": "key.keyboard.f20",
+  "default_permission_level": 4
+}
