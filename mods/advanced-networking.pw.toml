@@ -1,0 +1,13 @@
+name = "Advanced Networking"
+filename = "advanced-networking-3.1.0+mc.1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IF0Y4xFw/versions/FQ4hwS8G/advanced-networking-3.1.0%2Bmc.1.20.4.jar"
+hash-format = "sha512"
+hash = "1185a328fc88f012df030e404d44a03b53349aca23f1d9fdffec24f6ede4de217f0794a28d924d45e99c13b18b825cda913b11a2c18b7b83323dbf05a6406b77"
+
+[update]
+[update.modrinth]
+mod-id = "IF0Y4xFw"
+version = "FQ4hwS8G"

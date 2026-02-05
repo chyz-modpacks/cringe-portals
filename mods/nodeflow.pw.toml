@@ -1,0 +1,13 @@
+name = "Nodeflow"
+filename = "nodeflow-1.1.0+mc.1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ktKs9gT1/versions/VL8NoIuS/nodeflow-1.1.0%2Bmc.1.20.4.jar"
+hash-format = "sha512"
+hash = "6ba169a2a7907acd6656aa1c0982304ec3531e925bf274af67c1cb4e810c4a71866db628816e1974777edbd82af213a58d448220332dc9d4ea1dde4236c27e5e"
+
+[update]
+[update.modrinth]
+mod-id = "ktKs9gT1"
+version = "VL8NoIuS"

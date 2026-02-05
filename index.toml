@@ -10,6 +10,11 @@ hash = "f91467703d4b5f18a31dbc5c03b1a73a44521b61de6d8a0772d30b989f5bcc0c"
 metafile = true
 
 [[files]]
+file = "mods/advanced-networking.pw.toml"
+hash = "6745ecd51c4117e6f836c238721b669c80f4c3ea4eb0ed5f2bdfc378595bc375"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
 metafile = true
@@ -64,6 +69,11 @@ hash = "5f8ebc1a54f64a6e88ab944f962b6838e7e1a1d9f77ed27851def53077a7bb2b"
 metafile = true
 
 [[files]]
+file = "mods/hyperleash.pw.toml"
+hash = "7e440aceae16f98d22d99516f44102b80b5e728d35c6836be0f35e60b839f60b"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "b5e8b41a632a7a383d5dd0a0141c0a4579f73f4a787ec63a5f9cf719f39537cd"
 metafile = true
@@ -81,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+metafile = true
+
+[[files]]
+file = "mods/nodeflow.pw.toml"
+hash = "6cb9df2db76cac63a0145b5ce4be9328e66ab9922809629a9e84b4c09df39a0c"
 metafile = true
 
 [[files]]
@@ -109,8 +124,18 @@ hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
 
 [[files]]
+file = "mods/portable-hole.pw.toml"
+hash = "ab23164c6851c8042b6507a1696ca4cb2b7aa33dda1ebe036032b1734201b6e0"
+metafile = true
+
+[[files]]
 file = "mods/portal-gun.pw.toml"
 hash = "872c2a2b3803fbe9c414cf06616362e14d728ea35d0955c76c4e549df978a4ad"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "526b8f53a36dcae5e94a6a9e90a4caf7a80a43c08fe79f3344a582b2bfb800e3"
 metafile = true
 
 [[files]]

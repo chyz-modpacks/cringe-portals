@@ -1,0 +1,13 @@
+name = "HyperLeash"
+filename = "hyperleash-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KqZcJkQm/versions/igkJA2jN/hyperleash-1.1.jar"
+hash-format = "sha512"
+hash = "fe3e3668a3e329075b968f29db460e327da0e5af6c0ed5ad095dac06e70115899f5b6b657bdc25694c4ab11ce3c3ed516b525a164c510630739beb5c5eaf87e2"
+
+[update]
+[update.modrinth]
+mod-id = "KqZcJkQm"
+version = "igkJA2jN"
