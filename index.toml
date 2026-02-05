@@ -109,6 +109,11 @@ hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
 
 [[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "872c2a2b3803fbe9c414cf06616362e14d728ea35d0955c76c4e549df978a4ad"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "1ee2fbdd79b37133dbd6c0f0dcf285e5d7c4a4d6720b4f1ac001144f74da3023"
 metafile = true
