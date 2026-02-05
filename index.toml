@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/figura.json"
-hash = "386eab135c7c62bcefe7da4f7c9f9df4d97b36ee405b7ab87f71787d2e0bb398"
+hash = "a91614a74aed378b44ab40a1820b91b33ed445e203b44ab4b16e6276711bdfb3"
 
 [[files]]
 file = "mods/additional-placements-fabric.pw.toml"
