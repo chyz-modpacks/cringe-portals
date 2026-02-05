@@ -79,6 +79,11 @@ hash = "b5e8b41a632a7a383d5dd0a0141c0a4579f73f4a787ec63a5f9cf719f39537cd"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
