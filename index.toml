@@ -84,6 +84,11 @@ hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
 metafile = true
 
 [[files]]
+file = "mods/goop.pw.toml"
+hash = "6099f2bef2cd56285df7b604ff4da451042405671514dfa2dafb6ae5a70fe07b"
+metafile = true
+
+[[files]]
 file = "mods/gravity-api-fork.pw.toml"
 hash = "5f8ebc1a54f64a6e88ab944f962b6838e7e1a1d9f77ed27851def53077a7bb2b"
 metafile = true
