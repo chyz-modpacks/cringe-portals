@@ -1,0 +1,13 @@
+name = "Orbital Railgun Enhanced"
+filename = "orbital_railgun_enhanced-1.20.1-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6rSropD6/versions/UyKcaONd/orbital_railgun_enhanced-1.20.1-1.3.5.jar"
+hash-format = "sha512"
+hash = "8438b8369384cbaf1af4a153bbc9d41a52e61bb25b753761c35db9f260b5914ff9a763490293f496e28872aa71f2b0ea906614a82bc2c7ea558951e445d156c7"
+
+[update]
+[update.modrinth]
+mod-id = "6rSropD6"
+version = "UyKcaONd"

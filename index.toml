@@ -124,6 +124,11 @@ hash = "4bb4cc0536883fa919fc0b73cc8c233cd250f2b02d58091db44a0ab96c08211b"
 metafile = true
 
 [[files]]
+file = "mods/orbital-railgun-enhanced.pw.toml"
+hash = "5c9e20438e1ab112bb0bdd4444525a8fc43e60b5680ecec11bf7ef80b420a78b"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "499255558fba5abfa0760fe875fd624d5543cf7b8915651ea7f389fa5897b1ad"
 metafile = true
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "1ee2fbdd79b37133dbd6c0f0dcf285e5d7c4a4d6720b4f1ac001144f74da3023"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "bf9e648eaed48da4f0363340b96d978f9fb004c78649c6e8ae48d3517d1dae05"
 metafile = true
 
 [[files]]
