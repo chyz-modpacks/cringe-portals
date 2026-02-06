@@ -199,11 +199,6 @@ hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
 metafile = true
 
 [[files]]
-file = "mods/stained-lenses.pw.toml"
-hash = "7c07b9aef3eb05015978a9d4f8fdb2ce6819f3acb8ad4450d6918e89a99002d4"
-metafile = true
-
-[[files]]
 file = "mods/wearthat.pw.toml"
 hash = "57af14d4b92dc7db3065a0c4f292d48cc6b6e57ae2816675c4e82475b6af8388"
 metafile = true
