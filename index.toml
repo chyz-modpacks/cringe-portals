@@ -45,6 +45,11 @@ hash = "dded3880e723049a3d26ce915edf37ea1a86b4e45fc8fa47a9ec96b85596f36e"
 metafile = true
 
 [[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "6a5b425f56d3bc3772ccb987bace4b2b088bd1330a29deeb9be6e67089ed072b"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "b0a96ca2358570d64d7e0f8d6c65ca140034aee3f5296beffc5001fa52308631"
 metafile = true
