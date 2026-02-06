@@ -65,11 +65,6 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
-file = "mods/fancy-door-animations.pw.toml"
-hash = "5b4cf43a762ac3899f62827c529834a00824d591b4800e1d7c52a855b34499a7"
-metafile = true
-
-[[files]]
 file = "mods/fdmc-0.2.4mc1.20.4.jar.disabled"
 hash = "66cd008810d248910d7c9d7da0f48faafbaba9f88bbfac6b5cb040c03c116927"
 
