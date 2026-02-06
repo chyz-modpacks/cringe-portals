@@ -124,6 +124,11 @@ hash = "4bb4cc0536883fa919fc0b73cc8c233cd250f2b02d58091db44a0ab96c08211b"
 metafile = true
 
 [[files]]
+file = "mods/oooze.pw.toml"
+hash = "59d780b4e652d8b5b352e014dd07fb94983384c48ec7e4e3ebbfb86de0e73a87"
+metafile = true
+
+[[files]]
 file = "mods/orbital-railgun-enhanced.pw.toml"
 hash = "5c9e20438e1ab112bb0bdd4444525a8fc43e60b5680ecec11bf7ef80b420a78b"
 metafile = true

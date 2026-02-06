@@ -1,0 +1,13 @@
+name = "Oooze"
+filename = "oooze-1.20.x-v0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6FeN84V/versions/T4Jb2lik/oooze-1.20.x-v0.1.jar"
+hash-format = "sha512"
+hash = "a9571bbfc9cbb6797118b77c78f3658e4091254f242d66c5a916b55f4bb1c85e90ca5be6a80f447a499eb4c45c514d098645eca9c38cb23bd7b78fe1387927e0"
+
+[update]
+[update.modrinth]
+mod-id = "u6FeN84V"
+version = "T4Jb2lik"
