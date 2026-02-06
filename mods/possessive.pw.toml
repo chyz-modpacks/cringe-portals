@@ -1,0 +1,13 @@
+name = "Possessive"
+filename = "possessive-1.0.4_1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DVpXKtiH/versions/4VZLptqL/possessive-1.0.4_1.20.4.jar"
+hash-format = "sha512"
+hash = "85c1c9706d7b1a6c56d9f59e38d55232c761fda00aff7bf9c60abbcdb32bb5366833cc253d57b7566fbf3b3d8f22f8583fcedd6b7244890fae61e70c78a4c2f0"
+
+[update]
+[update.modrinth]
+mod-id = "DVpXKtiH"
+version = "4VZLptqL"

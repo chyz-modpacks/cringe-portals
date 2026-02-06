@@ -1,0 +1,13 @@
+name = "WebStreamer"
+filename = "webstreamer-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IdNyYbFO/versions/ondpQ8lg/webstreamer-1.5.0.jar"
+hash-format = "sha512"
+hash = "05d94aeae2e9f1beebfde98d69ab9f5732654437181a3666a142a89ca40dfbaa22a61c0e1d6605c086449ddf5eb580566876cc84fe370f98f6a60c95ae75155a"
+
+[update]
+[update.modrinth]
+mod-id = "IdNyYbFO"
+version = "ondpQ8lg"

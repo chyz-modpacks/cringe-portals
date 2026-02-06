@@ -20,6 +20,11 @@ hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "6c1718dabfb7bc27f768400f2cff9b5ed77f084171aab57bb5ac819e5e0398d7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
 metafile = true
@@ -139,6 +144,11 @@ hash = "872c2a2b3803fbe9c414cf06616362e14d728ea35d0955c76c4e549df978a4ad"
 metafile = true
 
 [[files]]
+file = "mods/possessive.pw.toml"
+hash = "68b232d84dbcdeec51c30e836943388c10d4c185204f37ed54d695547212f18b"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "526b8f53a36dcae5e94a6a9e90a4caf7a80a43c08fe79f3344a582b2bfb800e3"
 metafile = true
@@ -161,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/wearthat.pw.toml"
 hash = "57af14d4b92dc7db3065a0c4f292d48cc6b6e57ae2816675c4e82475b6af8388"
+metafile = true
+
+[[files]]
+file = "mods/webstreamer.pw.toml"
+hash = "978cc314d07347dc2bcd23e56f93992d79ee5b89a3947d74221b758e8f685e17"
 metafile = true
 
 [[files]]
