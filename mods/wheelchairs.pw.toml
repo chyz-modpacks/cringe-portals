@@ -1,0 +1,13 @@
+name = "Wheelchairs"
+filename = "wheelchairs-2.51-fabric 1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hl8UzsLJ/versions/vn5wmuE2/wheelchairs-2.51-fabric%201.20.4.jar"
+hash-format = "sha512"
+hash = "d6b0ec5cc7d02eab9762d38bddf895203cbd8ca36783afa76ade7e3c79357901428eed197ff6748ed51e96f3d6c5d742df4af2dec09dd56d33142b2119c18597"
+
+[update]
+[update.modrinth]
+mod-id = "Hl8UzsLJ"
+version = "vn5wmuE2"

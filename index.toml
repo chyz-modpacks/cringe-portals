@@ -25,6 +25,11 @@ hash = "6c1718dabfb7bc27f768400f2cff9b5ed77f084171aab57bb5ac819e5e0398d7"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b7cd611b5e509f9f8d5e5db356781f4921a33d908ca9fe8eb20b8c1bbc526515"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
 metafile = true
@@ -176,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/webstreamer.pw.toml"
 hash = "978cc314d07347dc2bcd23e56f93992d79ee5b89a3947d74221b758e8f685e17"
+metafile = true
+
+[[files]]
+file = "mods/wheelchairs.pw.toml"
+hash = "d73a5cd062804b42fead295236fba0f4c3e2ab3b7eb1ecd78fcaea93bda834a3"
 metafile = true
 
 [[files]]
