@@ -154,11 +154,6 @@ hash = "872c2a2b3803fbe9c414cf06616362e14d728ea35d0955c76c4e549df978a4ad"
 metafile = true
 
 [[files]]
-file = "mods/possessive.pw.toml"
-hash = "68b232d84dbcdeec51c30e836943388c10d4c185204f37ed54d695547212f18b"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "526b8f53a36dcae5e94a6a9e90a4caf7a80a43c08fe79f3344a582b2bfb800e3"
 metafile = true
