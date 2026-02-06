@@ -60,6 +60,11 @@ hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
 file = "mods/fdmc-0.2.4mc1.20.4.jar.disabled"
 hash = "66cd008810d248910d7c9d7da0f48faafbaba9f88bbfac6b5cb040c03c116927"
 
@@ -186,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+metafile = true
+
+[[files]]
+file = "mods/stained-lenses.pw.toml"
+hash = "7c07b9aef3eb05015978a9d4f8fdb2ce6819f3acb8ad4450d6918e89a99002d4"
 metafile = true
 
 [[files]]
