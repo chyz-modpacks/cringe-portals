@@ -1,0 +1,13 @@
+name = "Wavy Flags"
+filename = "wavyflags-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ttDCxVtB/versions/wUb6WczR/wavyflags-1.2.0.jar"
+hash-format = "sha512"
+hash = "098352c2ef02f92506e5d462e6edd0861cf2b835158b331a45a8d8d6b903273ad1ca3c4c3a2ef14cc1d1f8c06651087cf8c3408a15c70771e6742dc3a553d77a"
+
+[update]
+[update.modrinth]
+mod-id = "ttDCxVtB"
+version = "wUb6WczR"

@@ -30,6 +30,16 @@ hash = "b7cd611b5e509f9f8d5e5db356781f4921a33d908ca9fe8eb20b8c1bbc526515"
 metafile = true
 
 [[files]]
+file = "mods/cc-drones.pw.toml"
+hash = "5eaccb3acda9aa5d9fe61ad3fe82529504341dd69697b6bde6c4135d55e65aca"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7b9eace19e17969028542ad9bd29e99ef4143e36693f2fbf79315ef91f927767"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
 metafile = true
@@ -114,6 +124,11 @@ hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
 
 [[files]]
+file = "mods/metal-pipe!.pw.toml"
+hash = "d824310c115a44ca28599729c417b63976f1a1dbbe9dcf0b092cb3959ea2a28e"
+metafile = true
+
+[[files]]
 file = "mods/miniscaled.pw.toml"
 hash = "c6630ff951c43aaf03dfd592f524f8fae409058a7111eaccbb150927945f9ba8"
 metafile = true
@@ -159,6 +174,11 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "0163d9ed6d97505a4cd676b2851954d13f6d60cf5983c842f74f3da897f8e98a"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
@@ -196,6 +216,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "248fbd6f4514089f43f2bcb694805005f1a4fd5bec2293d26c5b360e51888734"
+metafile = true
+
+[[files]]
+file = "mods/wavy-flags.pw.toml"
+hash = "bb115cf657173642f7d5ef31dab95045d38efe3177e621d90f82ccfb0e6bf976"
 metafile = true
 
 [[files]]
